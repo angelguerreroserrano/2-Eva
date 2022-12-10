@@ -1,9 +1,0 @@
-//Primer programa en C++
-//Para un programa en C++ hacen falta dos cosas, una libriería (iostream) y una función
-
-#include<iostream>                //Esta librería permite a C++ hacer entradas y salidas de datos (Input - Output - Stream)
-
-int main(){
-	std::cout<<"Hola mundo :)\n";   //std::cout permite imprimir algo en pantalla
-	return 0;                       //Hace falta un return para decirle al programa que acabó la función
-}
