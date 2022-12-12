@@ -1,6 +1,9 @@
 //Primer programa en C++
-#include<stdio.h>
+#include<iostream>
+
+using namespace std;
 
 main(){
-	printf("Hola mundo");
+	cout<<"Hola mundo";
+	return 0;
 }
