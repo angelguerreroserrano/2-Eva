@@ -1,4 +1,4 @@
-//Factorial de un número
+//Factorial de un nÃºmero
 
 #include<iostream>
 
@@ -6,7 +6,7 @@ using namespace std;
 
 int main(){
 	int num, factorial = 1;
-	cout<<"Introduce un número para saber su factorial: "; cin>>num;
+	cout<<"Introduce un nÃºmero para saber su factorial: "; cin>>num;
 	for(int j = 1; j<=num; j++){
 		factorial = factorial * j;
 	}
