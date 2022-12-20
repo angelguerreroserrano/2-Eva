@@ -1,6 +1,6 @@
 //Vamos a hacer un switch
 /*
-El switch lo que hace es que realiza una acción segun el valor de una variable.
+El switch lo que hace es que realiza una acciÃ³n segun el valor de una variable.
 */
 
 #include<iostream>
