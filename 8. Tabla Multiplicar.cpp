@@ -1,11 +1,11 @@
-//Tabla de multiplicar del número que des
+//Tabla de multiplicar del nÃºmero que des
 
 #include<iostream>
 
 using namespace std;
 
 int main(){
-	int cont, num=0;
+	int cont, num;
 	cout<<"Dime un numero: ";cin>>num;
 	cout<<endl;
 	
