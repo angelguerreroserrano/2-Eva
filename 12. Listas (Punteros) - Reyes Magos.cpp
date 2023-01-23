@@ -1,8 +1,8 @@
 /*
 En este programa quiero guardar el nombre de los tres reyes magos
-Para ello, hay que tener en cuenta el número de letras (M E L C H O R \0) (G A S P A R \0) (B A L T A S A R \0)
-En la variable reyes, guardará los tres nombres, cada uno con una dirección.
-Dentro de cada dirección, estará la dirección de cada rey.
+Para ello, hay que tener en cuenta el nÃºmero de letras (M E L C H O R \0) (G A S P A R \0) (B A L T A S A R \0)
+En la variable reyes, guardarÃ¡ los tres nombres, cada uno con una direcciÃ³n.
+Dentro de cada direcciÃ³n, estarÃ¡ la direcciÃ³n de cada rey.
 */
 
 #include<stdio.h>
