@@ -43,7 +43,7 @@ int main(){
             *(*(reyes+cont)+j)=nombre[j];
         }
     }
-    //Comprobación
+    //ComprobaciÃ³n
     cout<<endl;
     cout<<"***********************************"<<endl;
     cout<<"*        The magic Kings          *"<<endl;
